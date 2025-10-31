@@ -25,8 +25,8 @@ Turning ideas into reality, one project at a time. 🚀
 ---
 
 ## 📫 How to reach me
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
+- GitHub: [@jailidea](https://github.com/username)
+- Email: magiskpeople@gmail.com
 
 ---
 
